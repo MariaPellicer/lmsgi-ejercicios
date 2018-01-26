@@ -1,0 +1,27 @@
+html {
+    background-color: hsl(15, 20%, 50%);
+    font-family: sans-serif;
+}
+
+header {
+    background-color: hsl(15, 15%, 55%);
+    margin: 50px;
+    text-align: justify;
+    font-size: 180%;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+    margin: 40px;
+    font-size: 160%;
+    border: 20px;
+}
+
+h2 {
+    margin: 20px;
+    background-color: white;
+}

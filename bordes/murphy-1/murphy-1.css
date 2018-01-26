@@ -1,0 +1,98 @@
+html {
+    background-color: hsl(0, 0%, 80%);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
+
+p.mal {
+    background-color: hsl(40, 100%, 75%);
+    text-align: center;
+    border: hsl(35, 46%, 54%) 3px solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    padding-bottom: 4%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0.5%;
+    font-size: 150%;
+}
+
+p.bien {
+    background-color: hsl(120, 100%, 75%);
+    border: hsl(120, 40%, 35%) 3px solid;
+    text-align: center;
+    font-size: 150%;
+    padding-bottom: 13%;
+    padding-top: 0.5%;
+    padding-left: 0.3%;
+    padding-right: 0.3%;
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-top: 8%;
+    position: absolute;
+}
+
+p.precauciones {
+    background-color: hsl(60, 100%, 75%);
+    border: hsl(60, 64%, 55%) 3px solid;
+    margin-left: 5%;
+    margin-right: 55%;
+    margin-bottom: 13%;
+    padding-bottom: 13%;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size: 150%;
+    padding-top: 0.5%;
+    position: absolute;
+}
+
+p.peor {
+    background-color: hsl(180, 100%, 90%);
+    border: hsl(180, 25%, 70%) 3px solid;
+    text-align: right;
+    font-size: 150%;
+    margin-right: 5%;
+    margin-left: 55%;
+    margin-bottom: 13%;
+    padding-left: 0.5%;
+    padding-right: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 13%;
+    position: absolute;
+}
+
+p.todo {
+    background-color: hsl(300, 100%, 95%);
+    border: hsl(300, 15%, 70%) 3px solid;
+    margin-left: 5%;
+    margin-right: 55%;
+    margin-bottom: 13%;
+    margin-top: 25%;
+    padding-bottom: 13%;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size: 150%;
+    padding-top: 0.5%;
+    position: relative;
+}
+
+p.optimista {
+    background-color: hsl(0, 100%, 85%);
+    border: hsl(0, 15%, 45%) 3px solid;
+    text-align: right;
+    font-size: 150%;
+    margin-right: 5%;
+    margin-left: 55%;
+    margin-bottom: 13%;
+    margin-top: -29%;
+    padding-left: 1%;
+    padding-right: 20%;
+    padding-top: 0.5%;
+    padding-bottom: 13%;
+    position: absolute;
+}

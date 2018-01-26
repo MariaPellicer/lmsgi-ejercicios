@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+body {
+    background-color: #C4C6B9;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 150%;
+}
+
+h1 {
+    color: #161669;
+    text-transform: uppercase;
+    text-align: right;
+    letter-spacing: 50px;
+    font-size: 200%;
+}
+
+h2 {
+    color: #FFFFFF;
+    background-color: #5D6336;
+}
+
+strong {
+    font-style: oblique;
+}
+
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+img.derecha {
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+img.centro {
+    float: center;
+}

@@ -1,0 +1,26 @@
+html {
+    background-color: hsl(187, 100%, 60%);;
+    color: hsl(187, 100%, 20%);
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 350%;
+    text-transform: uppercase;
+    letter-spacing: 33px;
+}
+
+p ::first-letter {
+    font-style: normal;
+    font-size: 300%;
+    float: left;
+}
+
+p {
+    font-style: oblique;
+    background-color: hsl(187, 100%, 40%);
+    overflow: auto;
+    border: hsl(187, 100%, 20%) 5px dashed;
+    float: left;
+}
